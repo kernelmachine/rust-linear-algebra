@@ -1,0 +1,10 @@
+[package]
+name = "linear-algebra"
+version = "0.1.0"
+authors = ["Suchin Gururangan <sgrangan01@gmail.com>"]
+
+[dependencies]
+ndarray = "*"
+rayon = "*"
+rand = "*"
+ndarray-rand="*"
